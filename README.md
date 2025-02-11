@@ -13,3 +13,4 @@ A starter Next.js template that I personally use for my projects.
 - Removed placeholder files
 - Prettier
 - .env.example
+- MIT License
