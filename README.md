@@ -11,5 +11,4 @@ A starter Next.js template that I personally use for my projects.
 ## Extras
 
 - Removed placeholder files
-
-
+- Prettier
